@@ -1,2 +1,0 @@
-yeapp
-https://docs.scipy.org/doc/numpy/reference/generated/numpy.reshape.html 
